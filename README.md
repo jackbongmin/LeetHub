@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jackbongmin/LeetHub/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jackbongmin/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jackbongmin/LeetHub/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/jackbongmin/LeetHub/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/jackbongmin/LeetHub/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jackbongmin/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jackbongmin/LeetHub/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/jackbongmin/LeetHub/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search

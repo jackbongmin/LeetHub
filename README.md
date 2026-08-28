@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jackbongmin/LeetHub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [1046-last-stone-weight](https://github.com/jackbongmin/LeetHub/tree/master/1046-last-stone-weight) |
 | [1512-number-of-good-pairs](https://github.com/jackbongmin/LeetHub/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jackbongmin/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jackbongmin/LeetHub/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/jackbongmin/LeetHub/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/jackbongmin/LeetHub/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jackbongmin/LeetHub/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/jackbongmin/LeetHub/tree/master/1046-last-stone-weight) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jackbongmin/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jackbongmin/LeetHub/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/jackbongmin/LeetHub/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jackbongmin/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/jackbongmin/LeetHub/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jackbongmin/LeetHub/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
 ## Linked List
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/jackbongmin/LeetHub/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jackbongmin/LeetHub/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
 ## Union-Find

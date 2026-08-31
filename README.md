@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jackbongmin/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jackbongmin/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jackbongmin/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jackbongmin/LeetHub/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jackbongmin/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jackbongmin/LeetHub/tree/master/0027-remove-element) |
+| [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jackbongmin/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jackbongmin/LeetHub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jackbongmin/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
 ## Linked List
@@ -162,6 +165,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

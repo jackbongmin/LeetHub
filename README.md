@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jackbongmin/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jackbongmin/LeetHub/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/jackbongmin/LeetHub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jackbongmin/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jackbongmin/LeetHub/tree/master/0027-remove-element) |
 | [0200-number-of-islands](https://github.com/jackbongmin/LeetHub/tree/master/0200-number-of-islands) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/jackbongmin/LeetHub/tree/main/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/jackbongmin/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jackbongmin/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jackbongmin/LeetHub/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jackbongmin/LeetHub/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/jackbongmin/LeetHub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jackbongmin/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jackbongmin/LeetHub/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |

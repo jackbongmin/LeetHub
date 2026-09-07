@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/jackbongmin/LeetHub/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/jackbongmin/LeetHub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/jackbongmin/LeetHub/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jackbongmin/LeetHub/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/jackbongmin/LeetHub/tree/master/1046-last-stone-weight) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jackbongmin/LeetHub/tree/main/0011-container-with-most-water/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jackbongmin/LeetHub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->

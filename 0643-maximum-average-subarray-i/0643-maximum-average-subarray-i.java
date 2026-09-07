@@ -5,12 +5,12 @@ class Solution {
     }
 
     private double result(int[] InNums, int InK){
-        double sum = 0;
+        int sum = 0;
         for(int i = 0; i<InK;i++){
             sum += InNums[i]; 
         }
 
-        double max_sum = sum;
+        int max_sum = sum;
 
         for(int i = InK; i<InNums.length; i++){
             sum = sum + InNums[i] - InNums[i-InK];
@@ -18,7 +18,7 @@ class Solution {
             max_sum = Math.max(max_sum, sum); 
         }
 
-        return max_sum / InK;
+        return (double) max_sum / InK;
 
     }
 }

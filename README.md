@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jackbongmin/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jackbongmin/LeetHub/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jackbongmin/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/jackbongmin/LeetHub/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/jackbongmin/LeetHub/tree/master/0771-jewels-and-stones) |
 ## Stack
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jackbongmin/LeetHub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/jackbongmin/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/jackbongmin/LeetHub/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/jackbongmin/LeetHub/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/jackbongmin/LeetHub/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jackbongmin/LeetHub/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/jackbongmin/LeetHub/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jackbongmin/LeetHub/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/jackbongmin/LeetHub/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/jackbongmin/LeetHub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

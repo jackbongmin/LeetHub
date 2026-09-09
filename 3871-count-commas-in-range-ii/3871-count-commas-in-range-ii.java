@@ -9,6 +9,9 @@ class Solution {
 
         while(InN>=b){
             answer += (InN - b + 1);
+
+            if(b > Long.MAX_VALUE / 1000) break;
+
             b *= 1000;
         }
 

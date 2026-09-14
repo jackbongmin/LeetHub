@@ -7,6 +7,7 @@ class Solution {
         int a = InNums[0];
         int b = InNums[0];
 
+        // 무한루프 있는지 없는지 찾아야함 이거때매 시간초과
         while(true) {
             a = InNums[a];
             b = InNums[InNums[b]];

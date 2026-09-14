@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jackbongmin/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jackbongmin/LeetHub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jackbongmin/LeetHub/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/jackbongmin/LeetHub/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/jackbongmin/LeetHub/tree/master/0542-01-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jackbongmin/LeetHub/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackbongmin/LeetHub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/jackbongmin/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jackbongmin/LeetHub/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/jackbongmin/LeetHub/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/jackbongmin/LeetHub/tree/main/0567-permutation-in-string/) | Medium |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackbongmin/LeetHub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jackbongmin/LeetHub/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/jackbongmin/LeetHub/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jackbongmin/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/jackbongmin/LeetHub/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/jackbongmin/LeetHub/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/jackbongmin/LeetHub/tree/main/0836-rectangle-overlap/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jackbongmin/LeetHub/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jackbongmin/LeetHub/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

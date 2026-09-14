@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/jackbongmin/LeetHub/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/jackbongmin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jackbongmin/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jackbongmin/LeetHub/tree/master/0344-reverse-string) |
